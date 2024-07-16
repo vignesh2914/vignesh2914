@@ -11,7 +11,7 @@
 
 <!-- Social Media Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/vignesh2914">
+  <a href="https://www.linkedin.com/in/ponvigneswaran-m-a274a8290/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
