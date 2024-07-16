@@ -50,6 +50,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Markdown">
   <img src="https://img.shields.io/badge/Open%20to%20collaboration-green.svg" alt="Collaboration">
 </p>
