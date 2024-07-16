@@ -4,7 +4,7 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">⭐ Ponvigneswan M ⭐</h1>
+<h1 align="center">⭐ Ponvigneswaran M ⭐</h1>
 
 <!-- Greeting -->
 <p align="center">Heloooo....sup...guys</p>
