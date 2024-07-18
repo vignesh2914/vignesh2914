@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Machine%20Learning-0E7C7B?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning">
-
 </p>
 
 <!-- GitHub Stats -->
@@ -48,7 +47,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh2914&theme=dark" alt="GitHub Streak" />
 </p>
-
 
 <!-- Footer -->
 <p align="center">
