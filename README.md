@@ -5,6 +5,10 @@
 
 <!-- Header -->
 <h1 align="center">⭐ Ponvigneswaran M ⭐</h1>
+<p align="center">Quote</p>
+
+<p align="center">People working on saturday and sunday (self improvement) will be great - Krish naik</p>
+
 
 <!-- Greeting -->
 <p align="center">Hello! Welcome to my GitHub profile.</p>
