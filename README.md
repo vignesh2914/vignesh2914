@@ -7,7 +7,7 @@
 <h1 align="center">⭐ Ponvigneswaran M ⭐</h1>
 <p align="center">Quote</p>
 
-<p align="center">People working on saturday and sunday (self improvement) will be great - Krish naik</p>
+<p align="center">Those who dedicate their Saturdays and Sundays to self-improvement are truly remarkable. - Krish Naik</p>
 
 
 <!-- Greeting -->
