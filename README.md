@@ -35,6 +35,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Machine%20Learning-0E7C7B?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/NLP-FF6F61?style=flat&logo=google-cloud&logoColor=white" alt="NLP">
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
 </p>
 
 <!-- GitHub Stats -->
